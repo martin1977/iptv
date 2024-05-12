@@ -1,0 +1,39 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="CBC CA" group-title="Sport" tvg-logo="",CBC CA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-832.php
+#EXTINF:-1 tvg-id="CTV Canada" group-title="Sport" tvg-logo="",CTV Canada
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-602.php
+#EXTINF:-1 tvg-id="CTV 2 Canada" group-title="Sport" tvg-logo="",CTV 2 Canada
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-838.php
+#EXTINF:-1 tvg-id="Global CA" group-title="Sport" tvg-logo="",Global CA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-836.php
+#EXTINF:-1 tvg-id="Noovo CA" group-title="Sport" tvg-logo="",Noovo CA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-835.php
+#EXTINF:-1 tvg-id="RDS CA" group-title="Sport" tvg-logo="",RDS CA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-839.php
+#EXTINF:-1 tvg-id="RDS 2 CA" group-title="Sport" tvg-logo="",RDS 2 CA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-840.php
+#EXTINF:-1 tvg-id="RDS Info CA" group-title="Sport" tvg-logo="",RDS Info CA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-841.php
+#EXTINF:-1 tvg-id="Sportsnet Ontario" group-title="Sport" tvg-logo="",Sportsnet Ontario
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-406.php
+#EXTINF:-1 tvg-id="Sportsnet West" group-title="Sport" tvg-logo="",Sportsnet West
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-407.php
+#EXTINF:-1 tvg-id="Sportsnet East" group-title="Sport" tvg-logo="",Sportsnet East
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-408.php
+#EXTINF:-1 tvg-id="TSN1" group-title="Sport" tvg-logo="",TSN1
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-111.php
+#EXTINF:-1 tvg-id="TSN2" group-title="Sport" tvg-logo="",TSN2
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-112.php
+#EXTINF:-1 tvg-id="TSN3" group-title="Sport" tvg-logo="",TSN3
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-113.php
+#EXTINF:-1 tvg-id="TSN4" group-title="Sport" tvg-logo="",TSN4
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-114.php
+#EXTINF:-1 tvg-id="TSN5" group-title="Sport" tvg-logo="",TSN5
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-115.php
+#EXTINF:-1 tvg-id="TVA Sports" group-title="Sport" tvg-logo="",TVA Sports
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-833.php
+#EXTINF:-1 tvg-id="TVA Sports 2" group-title="Sport" tvg-logo="",TVA Sports 2
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-834.php
+#EXTINF:-1 tvg-id="TVO CA" group-title="Sport" tvg-logo="",TVO CA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-842.php
