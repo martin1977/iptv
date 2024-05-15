@@ -1,6 +1,6 @@
 echo 1/5 update of guide - Quebec
 del /q "C:\data\cache\*.*"
-zap2xml.exe -d 3 -o epgQuebec.xml -e
+zap2xml.exe -u yatanag417@rehezb.com -p ju7hYywis111 -d 3 -o epgQuebec.xml -e
 powershell.exe -Command "(Get-Content epgQuebec.xml) -replace 'I138.15987.zap2it.com', 'CIVMDT.ca' | Out-File -encoding ASCII epgQuebec.xml"
 powershell.exe -Command "(Get-Content epgQuebec.xml) -replace 'I148.16133.zap2it.com', 'CanaldelAssemblee.ca' | Out-File -encoding ASCII epgQuebec.xml"
 powershell.exe -Command "(Get-Content epgQuebec.xml) -replace 'I502.10094.zap2it.com', 'CBCNewsNetwork.ca' | Out-File -encoding ASCII epgQuebec.xml"
@@ -13,7 +13,7 @@ powershell.exe -Command "(Get-Content epgQuebec.xml) -replace 'I152.15747.zap2it
 timeout 3
 echo 2/5 update of guide - San Jose
 del /q "C:\data\cache\*.*"
-zap2xml.exe -d 3 -o epgSanJose.xml -e
+zap2xml.exe -u bixer41882@deligy.com -p h7Isss83jErrr2 -d 3 -o epgSanJose.xml -e
 powershell.exe -Command "(Get-Content epgSanJose.xml) -replace 'I56.10142.zap2it.com', 'CNN.us' | Out-File -encoding ASCII epgSanJose.xml"
 powershell.exe -Command "(Get-Content epgSanJose.xml) -replace 'I2.10760.zap2it.com', 'KTVUDT1.us' | Out-File -encoding ASCII epgSanJose.xml"
 powershell.exe -Command "(Get-Content epgSanJose.xml) -replace 'I35.34240.zap2it.com', 'TBSWest.us' | Out-File -encoding ASCII epgSanJose.xml"
@@ -32,7 +32,7 @@ powershell.exe -Command "(Get-Content epgSanJose.xml) -replace 'I501.12852.zap2i
 timeout 3
 echo 3/5 update of guide - NY
 del /q "C:\data\cache\*.*"
-zap2xml.exe -d 3 -o epgNY.xml -e
+zap2xml.exe -u yatanag555@rehezb.com -p h88isguide002 -d 3 -o epgNY.xml -e
 powershell.exe -Command "(Get-Content epgNY.xml) -replace 'I31.11867.zap2it.com', 'TBSEast.us' | Out-File -encoding ASCII epgNY.xml"
 powershell.exe -Command "(Get-Content epgNY.xml) -replace 'I33.11164.zap2it.com', 'TNTEast.us' | Out-File -encoding ASCII epgNY.xml"
 powershell.exe -Command "(Get-Content epgNY.xml) -replace 'I15.11807.zap2it.com', 'IONTVEast.us' | Out-File -encoding ASCII epgNY.xml"
@@ -56,7 +56,7 @@ powershell.exe -Command "(Get-Content epgNY.xml) -replace 'I1613.28506.zap2it.co
 timeout 3
 echo 4/5 update of guide - DL-Canada
 del /q "C:\data\cache\*.*"
-zap2xml.exe -d 3 -o epgDLiveCanada.xml -e
+zap2xml.exe -u yatanag417@rehezb.com -p ju7hYywis111 -d 3 -o epgDLiveCanada.xml -e
 powershell.exe -Command "(Get-Content epgDLiveCanada.xml) -replace 'I70.10104.zap2it.com', 'CTV Canada' | Out-File -encoding ASCII epgDLiveCanada.xml"
 powershell.exe -Command "(Get-Content epgDLiveCanada.xml) -replace 'I68.15993.zap2it.com', 'Global CA' | Out-File -encoding ASCII epgDLiveCanada.xml"
 powershell.exe -Command "(Get-Content epgDLiveCanada.xml) -replace 'I104.17375.zap2it.com', 'Noovo CA' | Out-File -encoding ASCII epgDLiveCanada.xml"
@@ -73,9 +73,87 @@ powershell.exe -Command "(Get-Content epgDLiveCanada.xml) -replace 'I404.90124.z
 powershell.exe -Command "(Get-Content epgDLiveCanada.xml) -replace 'I193.73141.zap2it.com', 'TVA Sports' | Out-File -encoding ASCII epgDLiveCanada.xml"
 
 timeout 3
+echo 5/5 update of guide - DL-USA
+del /q "C:\data\cache\*.*"
+zap2xml.exe -u yatanag555@rehezb.com -p h88isguide002 -d 3 -o epgDLiveUSA.xml -e
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I5.11369.zap2it.com', 'ABC USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I37.10035.zap2it.com', 'AE USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I59.10021.zap2it.com', 'AMC USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I863.57394.zap2it.com', 'Animal Planet' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I1613.28506.zap2it.com', 'AXS TV USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I5.11369.zap2it.com', 'ABCNY USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I920.64492.zap2it.com', 'BBC America (BBCA)' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I905.63236.zap2it.com', 'BET USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I794.58625.zap2it.com', 'Bravo USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I864.59440.zap2it.com', 'CMT USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I4.11325.zap2it.com', 'CBS USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I808.32633.zap2it.com', 'CW USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I795.58780.zap2it.com', 'CNBC USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I61.10149.zap2it.com', 'Comedy Central' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I842.58646.zap2it.com', 'CNN USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I4.11325.zap2it.com', 'CBSNY USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I824.59684.zap2it.com', 'Disney Channel' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I39.11150.zap2it.com', 'Discovery Channel' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I49.10179.zap2it.com', 'ESPN USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I50.12444.zap2it.com', 'ESPN2 USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I248.16485.zap2it.com', 'ESPNews' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I250.82541.zap2it.com', 'Fox Sports 1 USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I254.33178.zap2it.com', 'Fox Sports 2 USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I13.11456.zap2it.com', 'FOX USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I41.16374.zap2it.com', 'Fox News' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I830.58574.zap2it.com', 'FX USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I924.66379.zap2it.com', 'FXX USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I72.10093.zap2it.com', 'Freeform' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I267.14909.zap2it.com', 'Game Show Network' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I870.19548.zap2it.com', 'HBO USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I871.59368.zap2it.com', 'HBO2 USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I305.18429.zap2it.com', 'HBO Comedy' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I772.59357.zap2it.com', 'HBO Family USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I66.14771.zap2it.com', 'History USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I832.49788.zap2it.com', 'HGTV' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I15.11807.zap2it.com', 'ION USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I798.59444.zap2it.com', 'IFC TV USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I836.60150.zap2it.com', 'Lifetime Network' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I40.16300.zap2it.com', 'MSNBC' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I827.60964.zap2it.com', 'MTV USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I914.62081.zap2it.com', 'MLB Network USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I1473.49438.zap2it.com', 'National Geographic (NGC)' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I10.112743.zap2it.com', 'NBC USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I913.45526.zap2it.com', 'NBA TV USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I10.112743.zap2it.com', 'NBCNY USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I853.45399.zap2it.com', 'NFL Network' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I1217.58690.zap2it.com', 'NHL Network USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I223.19211.zap2it.com', 'NICK JR' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I71.11006.zap2it.com', 'NICK' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I220.30420.zap2it.com', 'Nicktoons' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I55.11163.zap2it.com', 'Paramount Network' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I875.34941.zap2it.com', 'Starz' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I1411.58623.zap2it.com', 'SYFY USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I838.60316.zap2it.com', 'Tennis Channel' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I3484.11480.zap2it.com', 'Telemundo' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I31.11867.zap2it.com', 'TBS USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I38.11158.zap2it.com', 'TLC' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I33.11164.zap2it.com', 'TNT USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I784.59303.zap2it.com', 'Travel Channel' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I902.64490.zap2it.com', 'TruTV USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I1426.73541.zap2it.com', 'TVLAND' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I213.12852.zap2it.com', 'TCM USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I1860.35329.zap2it.com', 'TMC Channel USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I854.50747.zap2it.com', 'The Food Network' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I35.11207.zap2it.com', 'USA Network' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I927.70225.zap2it.com', 'Universal Kids USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I17.11529.zap2it.com', 'Univision' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I727.29059.zap2it.com', 'Unimas' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I829.60046.zap2it.com', 'VH1 USA' | Out-File -encoding ASCII epgDLiveUSA.xml"
+powershell.exe -Command "(Get-Content epgDLiveUSA.xml) -replace 'I910.65732.zap2it.com', 'VICE TV' | Out-File -encoding ASCII epgDLiveUSA.xml"
+
+
+timeout 3
 echo push changes to git
 git add epgNY.xml
 git add epgSanJose.xml
 git add epgQuebec.xml
+git add epgDLiveCanada.xml
+git add epgDLiveUSA.xml
 git commit -m "daily update"
 git push -u origin master
