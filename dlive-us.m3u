@@ -7,14 +7,8 @@ plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-302
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-303.php
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Sport" tvg-logo="",Animal Planet
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-304.php
-#EXTINF:-1 tvg-id="ACC Network USA" group-title="Sport" tvg-logo="",ACC Network USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-666.php
-#EXTINF:-1 tvg-id="ABS-CBN" group-title="Sport" tvg-logo="",ABS-CBN
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-785.php
 #EXTINF:-1 tvg-id="Adult Swim" group-title="Sport" tvg-logo="",Adult Swim
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-295.php
-#EXTINF:-1 tvg-id="Arte DE" group-title="Sport" tvg-logo="",Arte DE
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-725.php
 #EXTINF:-1 tvg-id="AXS TV USA" group-title="Sport" tvg-logo="",AXS TV USA
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-742.php
 #EXTINF:-1 tvg-id="ABCNY USA" group-title="Sport" tvg-logo="",ABCNY USA
@@ -33,12 +27,6 @@ plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-349
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-356.php
 #EXTINF:-1 tvg-id="BBC Two UK" group-title="Sport" tvg-logo="",BBC Two UK
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-357.php
-#EXTINF:-1 tvg-id="BBC Three UK" group-title="Sport" tvg-logo="",BBC Three UK
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-358.php
-#EXTINF:-1 tvg-id="BBC Four UK" group-title="Sport" tvg-logo="",BBC Four UK
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-359.php
-#EXTINF:-1 tvg-id="BIG TEN Network (BTN USA)" group-title="Sport" tvg-logo="",BIG TEN Network (BTN USA)
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-397.php
 #EXTINF:-1 tvg-id="CBS Sports Network (CBSSN)" group-title="Sport" tvg-logo="",CBS Sports Network (CBSSN)
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-308.php
 #EXTINF:-1 tvg-id="Canal+ France" group-title="Sport" tvg-logo="",Canal+ France
@@ -199,8 +187,6 @@ plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-362
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-373.php
 #EXTINF:-1 tvg-id="Sundance TV" group-title="Sport" tvg-logo="",Sundance TV
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-658.php
-#EXTINF:-1 tvg-id="Smithsonian Channel" group-title="Sport" tvg-logo="",Smithsonian Channel
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-601.php
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="Sport" tvg-logo="",Tennis Channel
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-40.php
 #EXTINF:-1 tvg-id="Telemundo" group-title="Sport" tvg-logo="",Telemundo
