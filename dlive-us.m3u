@@ -213,8 +213,6 @@ plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-384
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-394.php
 #EXTINF:-1 tvg-id="TeenNick" group-title="Sport" tvg-logo="",TeenNick
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-650.php
-#EXTINF:-1 tvg-id="Tennis+ 15" group-title="Sport" tvg-logo="",Tennis+ 15
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-714.php
 #EXTINF:-1 tvg-id="USA Network" group-title="Sport" tvg-logo="",USA Network
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-343.php
 #EXTINF:-1 tvg-id="Universal Kids USA" group-title="Sport" tvg-logo="",Universal Kids USA
