@@ -1,231 +1,197 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="ABC USA" group-title="Sport" tvg-logo="",ABC USA
+#EXTM3U
+#EXTINF:-1 tvg-id="ABC USA" group-title="Sport" tvg-logo="",ABC (KGO) San Francisco, CA (7).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-51.php
-#EXTINF:-1 tvg-id="A&E USA" group-title="Sport" tvg-logo="",A&E USA
+#EXTINF:-1 tvg-id="A&E USA" group-title="Sport" tvg-logo="",AandE US - Pacific Feed (132).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-302.php
-#EXTINF:-1 tvg-id="AMC USA" group-title="Sport" tvg-logo="",AMC USA
+#EXTINF:-1 tvg-id="AMC USA" group-title="Sport" tvg-logo="",AMC - Eastern Feed HD (1119).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-303.php
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Sport" tvg-logo="",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Sport" tvg-logo="",Animal Planet US HD - East (1252).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-304.php
+#EXTINF:-1 tvg-id="ACC Network USA" group-title="Sport" tvg-logo="",ACC Network USA
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-666.php
+#EXTINF:-1 tvg-id="ABS-CBN" group-title="Sport" tvg-logo="",ABS-CBN
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-785.php
 #EXTINF:-1 tvg-id="Adult Swim" group-title="Sport" tvg-logo="",Adult Swim
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-295.php
-#EXTINF:-1 tvg-id="AXS TV USA" group-title="Sport" tvg-logo="",AXS TV USA
+#EXTINF:-1 tvg-id="Arte DE" group-title="Sport" tvg-logo="",Arte DE
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-725.php
+#EXTINF:-1 tvg-id="AXS TV USA" group-title="Sport" tvg-logo="",AXS TV North America (1106).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-742.php
 #EXTINF:-1 tvg-id="ABCNY USA" group-title="Sport" tvg-logo="",ABCNY USA
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-766.php
-#EXTINF:-1 tvg-id="Boomerang" group-title="Sport" tvg-logo="",Boomerang
+#EXTINF:-1 tvg-id="Boomerang" group-title="Sport" tvg-logo="",Boomerang (327).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-648.php
-#EXTINF:-1 tvg-id="BBC America (BBCA)" group-title="Sport" tvg-logo="",BBC America (BBCA)
+#EXTINF:-1 tvg-id="BBC America (BBCA)" group-title="Sport" tvg-logo="",BBC America - East (122).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-305.php
-#EXTINF:-1 tvg-id="BET USA" group-title="Sport" tvg-logo="",BET USA
+#EXTINF:-1 tvg-id="BET USA" group-title="Sport" tvg-logo="",BET - Pacific Feed (156).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-306.php
-#EXTINF:-1 tvg-id="Bravo USA" group-title="Sport" tvg-logo="",Bravo USA
+#EXTINF:-1 tvg-id="Bravo USA" group-title="Sport" tvg-logo="",Bravo USA - Pacific Feed (181).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-307.php
-#EXTINF:-1 tvg-id="BBC News Channel HD" group-title="Sport" tvg-logo="",BBC News Channel HD
+#EXTINF:-1 tvg-id="BBC News Channel HD" group-title="Sport" tvg-logo="",BBC News - North America HD (1207).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-349.php
 #EXTINF:-1 tvg-id="BBC One UK" group-title="Sport" tvg-logo="",BBC One UK
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-356.php
 #EXTINF:-1 tvg-id="BBC Two UK" group-title="Sport" tvg-logo="",BBC Two UK
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-357.php
-#EXTINF:-1 tvg-id="CBS Sports Network (CBSSN)" group-title="Sport" tvg-logo="",CBS Sports Network (CBSSN)
+#EXTINF:-1 tvg-id="BBC Three UK" group-title="Sport" tvg-logo="",BBC Three UK
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-358.php
+#EXTINF:-1 tvg-id="BBC Four UK" group-title="Sport" tvg-logo="",BBC Four UK
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-359.php
+#EXTINF:-1 tvg-id="BIG TEN Network (BTN USA)" group-title="Sport" tvg-logo="",Big Ten Network (650).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-397.php
+#EXTINF:-1 tvg-id="CBS Sports Network (CBSSN)" group-title="Sport" tvg-logo="",CBS Sports Network USA (643).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-308.php
 #EXTINF:-1 tvg-id="Canal+ France" group-title="Sport" tvg-logo="",Canal+ France
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-121.php
-#EXTINF:-1 tvg-id="CMT USA" group-title="Sport" tvg-logo="",CMT USA
+#EXTINF:-1 tvg-id="CMT USA" group-title="Sport" tvg-logo="",CMT US - Pacific Feed (526).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-647.php
-#EXTINF:-1 tvg-id="CBS USA" group-title="Sport" tvg-logo="",CBS USA
+#EXTINF:-1 tvg-id="CBS USA" group-title="Sport" tvg-logo="",CBS (KPIX) San Francisco, CA (5).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-52.php
-#EXTINF:-1 tvg-id="CW USA" group-title="Sport" tvg-logo="",CW USA
+#EXTINF:-1 tvg-id="CW USA" group-title="Sport" tvg-logo="",CW (KOCB) Oklahoma City, OK (34-1).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-300.php
-#EXTINF:-1 tvg-id="CNBC USA" group-title="Sport" tvg-logo="",CNBC USA
+#EXTINF:-1 tvg-id="CNBC USA" group-title="Sport" tvg-logo="",CNBC USA (216).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-309.php
-#EXTINF:-1 tvg-id="Comedy Central" group-title="Sport" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" group-title="Sport" tvg-logo="",Comedy Central (US) - Pacific Feed (141).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-310.php
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Sport" tvg-logo="",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Sport" tvg-logo="",Cartoon Network USA - Eastern Feed (325).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-339.php
-#EXTINF:-1 tvg-id="CNN USA" group-title="Sport" tvg-logo="",CNN USA
+#EXTINF:-1 tvg-id="CNN USA" group-title="Sport" tvg-logo="",CNN (202).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-345.php
-#EXTINF:-1 tvg-id="Cinemax USA" group-title="Sport" tvg-logo="",Cinemax USA
+#EXTINF:-1 tvg-id="Cinemax USA" group-title="Sport" tvg-logo="",Cinemax - Eastern Feed (832).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-374.php
-#EXTINF:-1 tvg-id="Cooking Channel USA" group-title="Sport" tvg-logo="",Cooking Channel USA
+#EXTINF:-1 tvg-id="Cooking Channel USA" group-title="Sport" tvg-logo="",The Cooking Channel (456).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-697.php
-#EXTINF:-1 tvg-id="C SPAN 1" group-title="Sport" tvg-logo="",C SPAN 1
+#EXTINF:-1 tvg-id="C SPAN 1" group-title="Sport" tvg-logo="",C-SPAN (230).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-750.php
 #EXTINF:-1 tvg-id="CBSNY USA" group-title="Sport" tvg-logo="",CBSNY USA
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-767.php
 #EXTINF:-1 tvg-id="Citytv" group-title="Sport" tvg-logo="",Citytv
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-831.php
-#EXTINF:-1 tvg-id="Discovery Life Channel" group-title="Sport" tvg-logo="",Discovery Life Channel
+#EXTINF:-1 tvg-id="Discovery Life Channel" group-title="Sport" tvg-logo="",Discovery Life Channel (466).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-311.php
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Sport" tvg-logo="",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Sport" tvg-logo="",Disney - Pacific Feed (303).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-312.php
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="Sport" tvg-logo="",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="Sport" tvg-logo="",Discovery Channel (US) - Pacific Feed (121).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-313.php
-#EXTINF:-1 tvg-id="Discovery Family" group-title="Sport" tvg-logo="",Discovery Family
+#EXTINF:-1 tvg-id="Discovery Family" group-title="Sport" tvg-logo="",Discovery Family Channel (335).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-657.php
-#EXTINF:-1 tvg-id="Disney XD" group-title="Sport" tvg-logo="",Disney XD
+#EXTINF:-1 tvg-id="Disney XD" group-title="Sport" tvg-logo="",Disney XD USA - Pacific Feed (305).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-314.php
-#EXTINF:-1 tvg-id="Disney JR" group-title="Sport" tvg-logo="",Disney JR
+#EXTINF:-1 tvg-id="Disney JR" group-title="Sport" tvg-logo="",Disney Junior USA - West (306).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-652.php
-#EXTINF:-1 tvg-id="ESPN USA" group-title="Sport" tvg-logo="",ESPN USA
+#EXTINF:-1 tvg-id="ESPN USA" group-title="Sport" tvg-logo="",ESPN (602).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-44.php
-#EXTINF:-1 tvg-id="ESPN2 USA" group-title="Sport" tvg-logo="",ESPN2 USA
+#EXTINF:-1 tvg-id="ESPN2 USA" group-title="Sport" tvg-logo="",ESPN2 (606).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-45.php
-#EXTINF:-1 tvg-id="ESPNU USA" group-title="Sport" tvg-logo="",ESPNU USA
+#EXTINF:-1 tvg-id="ESPNU USA" group-title="Sport" tvg-logo="",ESPN U (605).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-316.php
-#EXTINF:-1 tvg-id="ESPNews" group-title="Sport" tvg-logo="",ESPNews
+#EXTINF:-1 tvg-id="ESPNews" group-title="Sport" tvg-logo="",ESPN News (604).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-288.php
-#EXTINF:-1 tvg-id="Fox Sports 1 USA" group-title="Sport" tvg-logo="",Fox Sports 1 USA
+#EXTINF:-1 tvg-id="Fox Sports 1 USA" group-title="Sport" tvg-logo="",Fox Sports 1 (652).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-39.php
-#EXTINF:-1 tvg-id="Fox Sports 2 USA" group-title="Sport" tvg-logo="",Fox Sports 2 USA
+#EXTINF:-1 tvg-id="Fox Sports 2 USA" group-title="Sport" tvg-logo="",Fox Sports 2 (651).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-758.php
 #EXTINF:-1 tvg-id="Fight Network" group-title="Sport" tvg-logo="",Fight Network
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-757.php
-#EXTINF:-1 tvg-id="FOX USA" group-title="Sport" tvg-logo="",FOX USA
+#EXTINF:-1 tvg-id="FOX USA" group-title="Sport" tvg-logo="",FOX (KTVU) San Francisco, CA (2).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-54.php
-#EXTINF:-1 tvg-id="Fox Business" group-title="Sport" tvg-logo="",Fox Business
+#EXTINF:-1 tvg-id="Fox Business" group-title="Sport" tvg-logo="",Fox Business (211).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-297.php
-#EXTINF:-1 tvg-id="Fox News" group-title="Sport" tvg-logo="",Fox News
+#EXTINF:-1 tvg-id="Fox News" group-title="Sport" tvg-logo="",Fox News (210).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-347.php
-#EXTINF:-1 tvg-id="FX USA" group-title="Sport" tvg-logo="",FX USA
+#EXTINF:-1 tvg-id="FX USA" group-title="Sport" tvg-logo="",FX Networks West Coast (129).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-317.php
-#EXTINF:-1 tvg-id="FXX USA" group-title="Sport" tvg-logo="",FXX USA
+#EXTINF:-1 tvg-id="FXX USA" group-title="Sport" tvg-logo="",FXX USA - Eastern (128).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-298.php
-#EXTINF:-1 tvg-id="Freeform" group-title="Sport" tvg-logo="",Freeform
+#EXTINF:-1 tvg-id="Freeform" group-title="Sport" tvg-logo="",Freeform - Pacific Feed (179).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-301.php
-#EXTINF:-1 tvg-id="FX Movie Channel" group-title="Sport" tvg-logo="",FX Movie Channel
+#EXTINF:-1 tvg-id="FX Movie Channel" group-title="Sport" tvg-logo="",FX Movie Channel (792).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-381.php
 #EXTINF:-1 tvg-id="FOXNY USA" group-title="Sport" tvg-logo="",FOXNY USA
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-768.php
-#EXTINF:-1 tvg-id="Game Show Network" group-title="Sport" tvg-logo="",Game Show Network
+#EXTINF:-1 tvg-id="Game Show Network" group-title="Sport" tvg-logo="",Game Show Network - East (173).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-319.php
-#EXTINF:-1 tvg-id="The Hallmark Channel" group-title="Sport" tvg-logo="",The Hallmark Channel
+#EXTINF:-1 tvg-id="The Hallmark Channel" group-title="Sport" tvg-logo="",Hallmark - Eastern Feed (365).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-320.php
-#EXTINF:-1 tvg-id="Hallmark Movies & Mysterie" group-title="Sport" tvg-logo="",Hallmark Movies & Mysterie
+#EXTINF:-1 tvg-id="Hallmark Movies & Mysterie" group-title="Sport" tvg-logo="",Hallmark Movies and Mysteries - Pacific (366).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-296.php
-#EXTINF:-1 tvg-id="HBO USA" group-title="Sport" tvg-logo="",HBO USA
+#EXTINF:-1 tvg-id="HBO USA" group-title="Sport" tvg-logo="",HBO - Eastern Feed (802).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-321.php
-#EXTINF:-1 tvg-id="HBO2 USA" group-title="Sport" tvg-logo="",HBO2 USA
+#EXTINF:-1 tvg-id="HBO2 USA" group-title="Sport" tvg-logo="",HBO 2 - Eastern Feed (804).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-689.php
-#EXTINF:-1 tvg-id="HBO Comedy USA" group-title="Sport" tvg-logo="",HBO Comedy USA
+#EXTINF:-1 tvg-id="HBO Comedy USA" group-title="Sport" tvg-logo="",HBO Comedy - East (810).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-690.php
-#EXTINF:-1 tvg-id="HBO Family USA" group-title="Sport" tvg-logo="",HBO Family USA
+#EXTINF:-1 tvg-id="HBO Family USA" group-title="Sport" tvg-logo="",HBO Family - Eastern Feed (806).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-691.php
-#EXTINF:-1 tvg-id="History USA" group-title="Sport" tvg-logo="",History USA
+#EXTINF:-1 tvg-id="History USA" group-title="Sport" tvg-logo="",History Channel US - Pacific Feed (256).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-322.php
-#EXTINF:-1 tvg-id="Headline News" group-title="Sport" tvg-logo="",Headline News
+#EXTINF:-1 tvg-id="Headline News" group-title="Sport" tvg-logo="",HLN (203).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-323.php
-#EXTINF:-1 tvg-id="HGTV" group-title="Sport" tvg-logo="",HGTV
+#EXTINF:-1 tvg-id="HGTV" group-title="Sport" tvg-logo="",HGTV USA - Pacific Feed (451).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-382.php
-#EXTINF:-1 tvg-id="Investigation Discovery (ID USA)" group-title="Sport" tvg-logo="",Investigation Discovery (ID USA)
+#EXTINF:-1 tvg-id="Investigation Discovery (ID USA)" group-title="Sport" tvg-logo="",Investigation Discovery USA - Eastern (260).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-324.php
-#EXTINF:-1 tvg-id="ION USA" group-title="Sport" tvg-logo="",ION USA
+#EXTINF:-1 tvg-id="ION USA" group-title="Sport" tvg-logo="",ION (KKPX) San Francisco, CA (65).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-325.php
-#EXTINF:-1 tvg-id="IFC TV USA" group-title="Sport" tvg-logo="",IFC TV USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-656.php
-#EXTINF:-1 tvg-id="Lifetime Network" group-title="Sport" tvg-logo="",Lifetime Network
+#EXTINF:-1 tvg-id="IFC TV USA" group-title="Sport" tvg-logo="",Independent Film Channel US (797).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-299.php
+#EXTINF:-1 tvg-id="Lifetime USA" group-title="Sport" tvg-logo="",Lifetime US - Pacific Feed (252).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-326.php
-#EXTINF:-1 tvg-id="Lifetime Movies Network" group-title="Sport" tvg-logo="",Lifetime Movies Network
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-389.php
-#EXTINF:-1 tvg-id="MSG USA" group-title="Sport" tvg-logo="",MSG USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-765.php
-#EXTINF:-1 tvg-id="MSNBC" group-title="Sport" tvg-logo="",MSNBC
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-327.php
-#EXTINF:-1 tvg-id="MTV USA" group-title="Sport" tvg-logo="",MTV USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-371.php
-#EXTINF:-1 tvg-id="MLB Network USA" group-title="Sport" tvg-logo="",MLB Network USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-399.php
-#EXTINF:-1 tvg-id="National Geographic (NGC)" group-title="Sport" tvg-logo="",National Geographic (NGC)
+#EXTINF:-1 tvg-id="MSNBC USA" group-title="Sport" tvg-logo="",MSNBC (209).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-352.php
+#EXTINF:-1 tvg-id="MTV USA" group-title="Sport" tvg-logo="",MTV USA - Pacific Feed (331).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-328.php
-#EXTINF:-1 tvg-id="Nat Geo Wild USA" group-title="Sport" tvg-logo="",Nat Geo Wild USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-745.php
-#EXTINF:-1 tvg-id="NBC USA" group-title="Sport" tvg-logo="",NBC USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-53.php
-#EXTINF:-1 tvg-id="NBA TV USA" group-title="Sport" tvg-logo="",NBA TV USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-404.php
-#EXTINF:-1 tvg-id="NBC Sports Chicago" group-title="Sport" tvg-logo="",NBC Sports Chicago
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-776.php
-#EXTINF:-1 tvg-id="NBC Sports Philadelphia" group-title="Sport" tvg-logo="",NBC Sports Philadelphia
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-777.php
-#EXTINF:-1 tvg-id="NBC Sports Washington" group-title="Sport" tvg-logo="",NBC Sports Washington
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-778.php
-#EXTINF:-1 tvg-id="NBC Sports Bay Area" group-title="Sport" tvg-logo="",NBC Sports Bay Area
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-753.php
-#EXTINF:-1 tvg-id="NBC Sports Boston" group-title="Sport" tvg-logo="",NBC Sports Boston
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-754.php
-#EXTINF:-1 tvg-id="NBC Sports California" group-title="Sport" tvg-logo="",NBC Sports California
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-755.php
-#EXTINF:-1 tvg-id="NBCNY USA" group-title="Sport" tvg-logo="",NBCNY USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-769.php
-#EXTINF:-1 tvg-id="NFL Network" group-title="Sport" tvg-logo="",NFL Network
+#EXTINF:-1 tvg-id="MLB Network USA" group-title="Sport" tvg-logo="",MLB Network (672).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-405.php
-#EXTINF:-1 tvg-id="NHL Network USA" group-title="Sport" tvg-logo="",NHL Network USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-663.php
-#EXTINF:-1 tvg-id="NICK JR" group-title="Sport" tvg-logo="",NICK JR
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-329.php
-#EXTINF:-1 tvg-id="NICK" group-title="Sport" tvg-logo="",NICK
+#EXTINF:-1 tvg-id="NBA TV USA" group-title="Sport" tvg-logo="",NBA TV (676).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-429.php
+#EXTINF:-1 tvg-id="NFL Network" group-title="Sport" tvg-logo="",NFL Network (634).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-406.php
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Sport" tvg-logo="",Nickelodeon USA - Pacific Feed (314).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-330.php
-#EXTINF:-1 tvg-id="Nick Music" group-title="Sport" tvg-logo="",Nick Music
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-666.php
-#EXTINF:-1 tvg-id="Nicktoons" group-title="Sport" tvg-logo="",Nicktoons
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-649.php
-#EXTINF:-1 tvg-id="Oprah Winfrey Network (OWN)" group-title="Sport" tvg-logo="",Oprah Winfrey Network (OWN)
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-331.php
-#EXTINF:-1 tvg-id="ProSieben (PRO7) DE" group-title="Sport" tvg-logo="",ProSieben (PRO7) DE
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-730.php
-#EXTINF:-1 tvg-id="Paramount Network" group-title="Sport" tvg-logo="",Paramount Network
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-334.php
-#EXTINF:-1 tvg-id="Spectrum Sportsnet LA" group-title="Sport" tvg-logo="",Spectrum Sportsnet LA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-764.php
-#EXTINF:-1 tvg-id="Showtime USA" group-title="Sport" tvg-logo="",Showtime USA
+#EXTINF:-1 tvg-id="NBC USA" group-title="Sport" tvg-logo="",NBC (KNTV) San Francisco, CA (11).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-53.php
+#EXTINF:-1 tvg-id="NBC Sports" group-title="Sport" tvg-logo="",NBC Sports Network (640).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-333.php
-#EXTINF:-1 tvg-id="Starz" group-title="Sport" tvg-logo="",Starz
+#EXTINF:-1 tvg-id="Nat Geo USA" group-title="Sport" tvg-logo="",National Geographic US - Pacific Feed (276).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-334.php
+#EXTINF:-1 tvg-id="Nat Geo Wild USA" group-title="Sport" tvg-logo="",Nat Geo Wild US - Pacific Feed (283).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-335.php
-#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Sport" tvg-logo="",Sky Atlantic
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-362.php
-#EXTINF:-1 tvg-id="SYFY USA" group-title="Sport" tvg-logo="",SYFY USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-373.php
-#EXTINF:-1 tvg-id="Sundance TV" group-title="Sport" tvg-logo="",Sundance TV
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-658.php
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="Sport" tvg-logo="",Tennis Channel
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-40.php
-#EXTINF:-1 tvg-id="Telemundo" group-title="Sport" tvg-logo="",Telemundo
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-131.php
-#EXTINF:-1 tvg-id="TBS USA" group-title="Sport" tvg-logo="",TBS USA
+#EXTINF:-1 tvg-id="NBCSN USA" group-title="Sport" tvg-logo="",NBCSN (640).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-336.php
-#EXTINF:-1 tvg-id="TLC" group-title="Sport" tvg-logo="",TLC
+#EXTINF:-1 tvg-id="OWN USA" group-title="Sport" tvg-logo="",Oprah Winfrey Network USA (892).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-337.php
-#EXTINF:-1 tvg-id="TNT USA" group-title="Sport" tvg-logo="",TNT USA
+#EXTINF:-1 tvg-id="Ovation TV USA" group-title="Sport" tvg-logo="",Ovation TV USA (875).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-338.php
-#EXTINF:-1 tvg-id="Travel Channel" group-title="Sport" tvg-logo="",Travel Channel
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-340.php
-#EXTINF:-1 tvg-id="TruTV USA" group-title="Sport" tvg-logo="",TruTV USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-341.php
-#EXTINF:-1 tvg-id="TVLAND" group-title="Sport" tvg-logo="",TVLAND
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-342.php
-#EXTINF:-1 tvg-id="TCM USA" group-title="Sport" tvg-logo="",TCM USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-644.php
-#EXTINF:-1 tvg-id="TMC Channel USA" group-title="Sport" tvg-logo="",TMC Channel USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-698.php
-#EXTINF:-1 tvg-id="The Food Network" group-title="Sport" tvg-logo="",The Food Network
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-384.php
-#EXTINF:-1 tvg-id="The Weather Channel" group-title="Sport" tvg-logo="",The Weather Channel
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-394.php
-#EXTINF:-1 tvg-id="TeenNick" group-title="Sport" tvg-logo="",TeenNick
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-650.php
-#EXTINF:-1 tvg-id="USA Network" group-title="Sport" tvg-logo="",USA Network
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-343.php
-#EXTINF:-1 tvg-id="Universal Kids USA" group-title="Sport" tvg-logo="",Universal Kids USA
+#EXTINF:-1 tvg-id="PBS USA" group-title="Sport" tvg-logo="",PBS (KQED) San Francisco, CA (9).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-3011.php
+#EXTINF:-1 tvg-id="Paramount Network USA" group-title="Sport" tvg-logo="",Paramount Network - Pacific Feed (54).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-3362.php
+#EXTINF:-1 tvg-id="Reelz USA" group-title="Sport" tvg-logo="",ReelzChannel US (799).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-668.php
-#EXTINF:-1 tvg-id="Univision" group-title="Sport" tvg-logo="",Univision
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-132.php
-#EXTINF:-1 tvg-id="Unimas" group-title="Sport" tvg-logo="",Unimas
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-133.php
-#EXTINF:-1 tvg-id="VH1 USA" group-title="Sport" tvg-logo="",VH1 USA
+#EXTINF:-1 tvg-id="Science Channel USA" group-title="Sport" tvg-logo="",Science Channel USA (463).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-340.php
+#EXTINF:-1 tvg-id="Smithsonian Channel USA" group-title="Sport" tvg-logo="",Smithsonian Channel US (798).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-341.php
+#EXTINF:-1 tvg-id="Syfy USA" group-title="Sport" tvg-logo="",SyFy US - Pacific Feed (1221).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-342.php
+#EXTINF:-1 tvg-id="TBS USA" group-title="Sport" tvg-logo="",TBS USA - Pacific Feed (139).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-343.php
+#EXTINF:-1 tvg-id="TLC USA" group-title="Sport" tvg-logo="",TLC US - Pacific Feed (183).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-344.php
-#EXTINF:-1 tvg-id="VICE TV" group-title="Sport" tvg-logo="",VICE TV
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-659.php
-#EXTINF:-1 tvg-id="WETV USA" group-title="Sport" tvg-logo="",WETV USA
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-655.php
-#EXTINF:-1 tvg-id="YES Network USA" group-title="Sport" tvg-logo="",YES Network USA
+#EXTINF:-1 tvg-id="TNT USA" group-title="Sport" tvg-logo="",TNT US - Pacific Feed (138).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-346.php
+#EXTINF:-1 tvg-id="Travel Channel USA" group-title="Sport" tvg-logo="",Travel Channel US - Pacific Feed (454).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-348.php
+#EXTINF:-1 tvg-id="USA Network" group-title="Sport" tvg-logo="",USA Network - Pacific Feed (105).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-350.php
+#EXTINF:-1 tvg-id="VH1 USA" group-title="Sport" tvg-logo="",VH1 USA - Pacific Feed (335).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-351.php
+#EXTINF:-1 tvg-id="WE TV USA" group-title="Sport" tvg-logo="",WE tv USA (910).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-353.php
+#EXTINF:-1 tvg-id="WGN America" group-title="Sport" tvg-logo="",WGN America (305).us
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-354.php
+#EXTINF:-1 tvg-id="WPIX USA" group-title="Sport" tvg-logo="",WPIX USA (no EPG, leave as-is)
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-769.php
+#EXTINF:-1 tvg-id="YES Network USA" group-title="Sport" tvg-logo="",YES Network (680).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-763.php
