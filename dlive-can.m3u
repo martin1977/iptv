@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBC (CBLT) Toronto, ON HD.ca" group-title="Sport" tvg-logo="",CBC (CBLT) Toronto, ON HD.ca
+#EXTINF:-1 tvg-id="CBC (CBLT) Toronto, ON HD.ca" group-title="Sport" tvg-logo="",CBC (CBLT)
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-832.php
-#EXTINF:-1 tvg-id="CTV (CFTO) Toronto, ON HD.ca" group-title="Sport" tvg-logo="",CTV (CFTO) Toronto, ON HD.ca
+#EXTINF:-1 tvg-id="CTV (CFTO) Toronto, ON HD.ca" group-title="Sport" tvg-logo="",CTV (CFTO) Toronto
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-602.php
-#EXTINF:-1 tvg-id="CTV2 Atlantic Region HD.ca" group-title="Sport" tvg-logo="",CTV2 Atlantic Region HD.ca
+#EXTINF:-1 tvg-id="CTV2 Atlantic Region HD.ca" group-title="Sport" tvg-logo="",CTV2 Atlantic Region
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-838.php
-#EXTINF:-1 tvg-id="Global (CIII) Ontario HD.ca" group-title="Sport" tvg-logo="",Global (CIII) Ontario HD.ca
+#EXTINF:-1 tvg-id="Global (CIII) Ontario HD.ca" group-title="Sport" tvg-logo="",Global (CIII) Ontario
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-836.php
-#EXTINF:-1 tvg-id="Noovo CA" group-title="Sport" tvg-logo="",Noovo CA
+#EXTINF:-1 tvg-id="Noovo CA" group-title="Sport" tvg-logo="",Noovo
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-835.php
-#EXTINF:-1 tvg-id="RDS (Réseau des sports) HD.ca" group-title="Sport" tvg-logo="",RDS 
+#EXTINF:-1 tvg-id="RDS (Ru00e9seau des sports) HD.ca" group-title="Sport" tvg-logo="",RDS 
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-839.php
 #EXTINF:-1 tvg-id="RDS 2 HD.ca" group-title="Sport" tvg-logo="",RDS 2
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-840.php
@@ -17,23 +17,23 @@ plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-840
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-841.php
 #EXTINF:-1 tvg-id="Sportsnet (Ontario) HD.ca" group-title="Sport" tvg-logo="",Sportsnet (Ontario)
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-406.php
-#EXTINF:-1 tvg-id="Sportsnet (West) HD.ca" group-title="Sport" tvg-logo="",Sportsnet (West) HD.ca
+#EXTINF:-1 tvg-id="Sportsnet (West) HD.ca" group-title="Sport" tvg-logo="",Sportsnet (West)
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-407.php
-#EXTINF:-1 tvg-id="Sportsnet (East) HD.ca" group-title="Sport" tvg-logo="",Sportsnet (East) HD.ca
+#EXTINF:-1 tvg-id="Sportsnet (East) HD.ca" group-title="Sport" tvg-logo="",Sportsnet (East)
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-408.php
 #EXTINF:-1 tvg-id="TSN1 HD.ca" group-title="Sport" tvg-logo="",TSN1
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-111.php
-#EXTINF:-1 tvg-id="TSN2 HD.ca" group-title="Sport" tvg-logo="",TSN2 HD.ca
+#EXTINF:-1 tvg-id="TSN2 HD.ca" group-title="Sport" tvg-logo="",TSN2
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-112.php
-#EXTINF:-1 tvg-id="TSN3 HD.ca" group-title="Sport" tvg-logo="",TSN3 HD.ca
+#EXTINF:-1 tvg-id="TSN3 HD.ca" group-title="Sport" tvg-logo="",TSN3
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-113.php
-#EXTINF:-1 tvg-id="TSN4 HD.ca" group-title="Sport" tvg-logo="",TSN4 HD.ca
+#EXTINF:-1 tvg-id="TSN4 HD.ca" group-title="Sport" tvg-logo="",TSN4
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-114.php
-#EXTINF:-1 tvg-id="TSN5 HD.ca" group-title="Sport" tvg-logo="",TSN5 HD.ca
+#EXTINF:-1 tvg-id="TSN5 HD.ca" group-title="Sport" tvg-logo="",TSN5
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-115.php
-#EXTINF:-1 tvg-id="TVA Sports HD.ca" group-title="Sport" tvg-logo="",TVA Sports HD.ca
+#EXTINF:-1 tvg-id="TVA Sports HD.ca" group-title="Sport" tvg-logo="",TVA Sports
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-833.php
-#EXTINF:-1 tvg-id="TVA Sports 2 HD.ca" group-title="Sport" tvg-logo="",TVA Sports 2 HD.ca
+#EXTINF:-1 tvg-id="TVA Sports 2 HD.ca" group-title="Sport" tvg-logo="",TVA Sports 2
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-834.php
-#EXTINF:-1 tvg-id="TVO (TV Ontario) HD.ca" group-title="Sport" tvg-logo="",TVO (TV Ontario) HD.ca
+#EXTINF:-1 tvg-id="TVO (TV Ontario) HD.ca" group-title="Sport" tvg-logo="",TVO (TV Ontario)
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-842.php
