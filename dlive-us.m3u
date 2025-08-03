@@ -71,7 +71,7 @@ plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-831
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-311.php
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Sport" tvg-logo="",Disney - Pacific Feed (303).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-312.php
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="Sport" tvg-logo="",Discovery Channel (US) - Pacific Feed (121).us
+#EXTINF:-1 tvg-id="Discovery HD (US) - Eastern (1120).us" group-title="Sport" tvg-logo="",Discovery Channel (US) - Pacific Feed (121).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-313.php
 #EXTINF:-1 tvg-id="Discovery Family" group-title="Sport" tvg-logo="",Discovery Family Channel (335).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-657.php
@@ -149,9 +149,9 @@ plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-661
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-646.php
 #EXTINF:-1 tvg-id="NBC USA" group-title="Sport" tvg-logo="",NBC (KNTV) San Jose, CA (11).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-53.php
-#EXTINF:-1 tvg-id="NBC Sports Bay Area" group-title="Sport" tvg-logo="",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="NBC Sports Bay Area (770).us" group-title="Sport" tvg-logo="",NBC Sports Bay Area
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-807.php
-#EXTINF:-1 tvg-id="NBC Sports California" group-title="Sport" tvg-logo="",NBC Sports California
+#EXTINF:-1 tvg-id="NBC Sports California HD (1767).us" group-title="Sport" tvg-logo="",NBC Sports California
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-808.php
 #EXTINF:-1 tvg-id="NFL Network USA" group-title="Sport" tvg-logo="",NFL Network (665).us
 plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-329.php
